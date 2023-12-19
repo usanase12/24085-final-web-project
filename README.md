@@ -73,6 +73,17 @@ And he can generate reports
 
  ![image](https://github.com/usanase12/24085-final-web-project/assets/146202842/f62fe106-1692-498d-b7d3-c58e4cb9cdcd)
 
+
+Technical documentatio:
+
+ The Backend Parts I used Springboot and Spring Security and JWT
+
+The Frontend Part I used thymeleaf
+
+The Database used is mysql
+
+For the testing part I used Postman
+
 Thank you!!!
 
 
