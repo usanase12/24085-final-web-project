@@ -38,23 +38,34 @@ Residents experience improved satisfaction as the system enables quicker resolut
 The database diagram
 
  ![image](https://github.com/usanase12/24085-final-web-project/assets/146202842/c8b9a930-2e96-4e81-a0f8-00bb089facc0)
+
+ 
 How do you access the system?
 
 User authentication:
 If you are an admin in the process of creating an account, you use admin1@gmail.com.
 
 This is the login
+
 ![image](https://github.com/usanase12/24085-final-web-project/assets/146202842/c9552302-6c3e-4ab5-99cc-a6be5987f29b)
+
 You may not have the account this is
 Signup
+
 ![image](https://github.com/usanase12/24085-final-web-project/assets/146202842/2842fb7a-efa7-48a0-a533-5d12ce61f4e4)
+
 \
 
 After you are prompted to register your claim
+
 ![image](https://github.com/usanase12/24085-final-web-project/assets/146202842/c994e6b5-253b-486d-b568-1cfc1aba12ac)
+
 After registering the claim, you receive an email
+
 ![image](https://github.com/usanase12/24085-final-web-project/assets/146202842/1fce7fd3-fccb-40ac-8d02-64379411f818)
+
 Then the admin can see the registered claims
+
  ![image](https://github.com/usanase12/24085-final-web-project/assets/146202842/27676ddb-0a18-46dc-8f37-395894687d1f)
 
 He updates where necessary and deletes
