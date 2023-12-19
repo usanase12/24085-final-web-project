@@ -1,14 +1,10 @@
 # 24085-final-web-project
 webtech final project
 
-
 Name: USANASE Sandrine
 ID: 24085
 
-
-
 My Project
-
 
 The Water Access Monitoring and Reporting System aims to enhance water supply management by providing a platform for residents to report water-related issues through a user-friendly app. The system facilitates real-time monitoring, task assignment, and emergency response integration for water service providers, fostering quick issue resolution, optimizing resource allocation, and promoting community engagement.
 
@@ -39,73 +35,32 @@ Enhanced Customer Satisfaction:
 
 Residents experience improved satisfaction as the system enables quicker resolution of reported issues. The transparent and responsive nature of the platform fosters trust between residents and water service providers, contributing to overall community satisfaction.
 
-
-
-
-
-
-
-
-
-
-
-
 The database diagram
- 
+
  ![image](https://github.com/usanase12/24085-final-web-project/assets/146202842/c8b9a930-2e96-4e81-a0f8-00bb089facc0)
-
-![diag](https://github.com/usanase12/24085-final-web-project/assets/146202842/ad11c5d2-b46b-4d5b-a2e6-d1e266669c31)
-
-
 How do you access the system?
 
 User authentication:
 If you are an admin in the process of creating an account, you use admin1@gmail.com.
 
 This is the login
- 
-
-
-
-
+![image](https://github.com/usanase12/24085-final-web-project/assets/146202842/c9552302-6c3e-4ab5-99cc-a6be5987f29b)
 You may not have the account this is
 Signup
-
- 
-
+![image](https://github.com/usanase12/24085-final-web-project/assets/146202842/2842fb7a-efa7-48a0-a533-5d12ce61f4e4)
 \
 
 After you are prompted to register your claim
-
- 
-
-
+![image](https://github.com/usanase12/24085-final-web-project/assets/146202842/c994e6b5-253b-486d-b568-1cfc1aba12ac)
 After registering the claim, you receive an email
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/usanase12/24085-final-web-project/assets/146202842/1fce7fd3-fccb-40ac-8d02-64379411f818)
 Then the admin can see the registered claims
- 
+ ![image](https://github.com/usanase12/24085-final-web-project/assets/146202842/27676ddb-0a18-46dc-8f37-395894687d1f)
 
 He updates where necessary and deletes
 And he can generate reports
 
- 
-
-
+ ![image](https://github.com/usanase12/24085-final-web-project/assets/146202842/f62fe106-1692-498d-b7d3-c58e4cb9cdcd)
 
 Thank you!!!
 
